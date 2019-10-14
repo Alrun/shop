@@ -1,0 +1,24 @@
+// Path to fonts
+$font-proxima-nova-path: '../fonts';
+
+// Proxima Light
+@font-face {
+	font-family: 'Proxima Nova';
+	src: url('#{$font-proxima-nova-path}/ProximaNova_Light/ProximaNova_Light.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 300;
+}
+// Proxima Regular
+@font-face {
+	font-family: 'Proxima Nova';
+	src: url('#{$font-proxima-nova-path}/ProximaNova_Regular/ProximaNova_Regular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 400;
+}
+// Proxima Bold
+@font-face {
+	font-family: 'Proxima Nova';
+	src: url('#{$font-proxima-nova-path}/ProximaNova_Semibold/ProximaNova_Semibold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: 600;
+}

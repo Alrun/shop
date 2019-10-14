@@ -1,0 +1,31 @@
+@import '../../assets/styles/variables';
+
+.btn {
+  font-size: 0.875rem;
+  border-radius: 2px;
+
+  &:not(:disabled):not(.disabled):focus,
+  &:not(:disabled):not(.disabled):active:focus {
+    box-shadow: none;
+  }
+
+  &_primary {
+    background-color: $blue;
+    border-color: $blue;
+
+    &:hover {
+      background-color: $blue-dark;
+      border-color: $blue-dark;
+    }
+  }
+
+  &_light {
+    background-color: $gray-lighter;
+    border-color: $gray-lighter;
+
+    &:hover {
+      background-color: $gray-light;
+      border-color: $gray-light;
+    }
+  }
+}

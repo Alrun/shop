@@ -1,9 +1,7 @@
 import { combineReducers } from 'redux';
 
-import staffTable from './staffTable';
-import staffFilter from './staffFilter';
+import goods from './goods';
 
 export const rootReducer = () => combineReducers({
-  staffTable,
-  staffFilter
+  goods
 });
