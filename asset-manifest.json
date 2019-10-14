@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.e7638e52.chunk.css",
+    "main.js": "/shop/static/js/main.c84f1cbd.chunk.js",
+    "main.js.map": "/shop/static/js/main.c84f1cbd.chunk.js.map",
+    "runtime-main.js": "/shop/static/js/runtime-main.cc83bde6.js",
+    "runtime-main.js.map": "/shop/static/js/runtime-main.cc83bde6.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/shop/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.4a4571f7.chunk.js": "/shop/static/js/2.4a4571f7.chunk.js",
+    "static/js/2.4a4571f7.chunk.js.map": "/shop/static/js/2.4a4571f7.chunk.js.map",
+    "index.html": "/shop/index.html",
+    "precache-manifest.14d8f38bfb52d016523f0e3fa665a7dd.js": "/shop/precache-manifest.14d8f38bfb52d016523f0e3fa665a7dd.js",
+    "service-worker.js": "/shop/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/shop/static/css/2.5dbdccff.chunk.css.map",
+    "static/css/main.e7638e52.chunk.css.map": "/shop/static/css/main.e7638e52.chunk.css.map",
+    "static/media/main.scss": "/shop/static/media/ProximaNova_Semibold.0db0c57c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc83bde6.js",
+    "static/css/2.5dbdccff.chunk.css",
+    "static/js/2.4a4571f7.chunk.js",
+    "static/css/main.e7638e52.chunk.css",
+    "static/js/main.c84f1cbd.chunk.js"
+  ]
+}
